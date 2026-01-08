@@ -7,4 +7,8 @@ closing the connection..
 login and logout..
 
 change1
+<<<<<<< HEAD
 change2 in my database
+=======
+change2 in harsh's database
+>>>>>>> feature3
